@@ -1,0 +1,17 @@
+# node_modules - contains all the installed packages
+node_modules/
+
+# build output directory - this directory contains the generated production build files
+build/
+
+# development environment files
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# serverless functions build output directory
+out/
+
+# Next.js development artifacts
+.next/
