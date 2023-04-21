@@ -21,7 +21,7 @@ const Home = () => {
 
         var config = {
             method: 'GET',
-            url: 'http://localhost:5001/getData',
+            url: `${process.env.BACKEND_URL}/getData`,
             headers: {
                 'Content-Type': 'application/json',
                 Authorization: `Bearer ${sessionStorage.getItem('token')}`,
@@ -43,7 +43,7 @@ const Home = () => {
     const fetchNextData = (limit=30) => {
         var config = {
             method: 'GET',
-            url: `http://localhost:5001/getData?limit=${limit}&after=${after}`,
+            url: `${process.env.BACKEND_URL}/getData?limit=${limit}&after=${after}`,
             headers: {
                 'Content-Type': 'application/json',
                 Authorization: `Bearer ${sessionStorage.getItem('token')}`,

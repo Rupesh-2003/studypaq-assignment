@@ -26,7 +26,7 @@ const Login = () => {
           
         var config = {
             method: 'post',
-            url: 'http://localhost:5001/login',
+            url: `${process.env.BACKEND_URL}/login`,
             headers: { 
               'Content-Type': 'application/json'
             },

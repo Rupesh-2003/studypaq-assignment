@@ -10,7 +10,7 @@ const Layout = ({ children }) => {
     const checkIfLoggedIn = () => {
         var config = {
             method: 'POST',
-            url: 'http://localhost:5001/isLoggedIn',
+            url: `${process.env.BACKEND_URL}/isLoggedIn`,
             withCredentials: true,
             headers: {
                 Authorization: `Bearer ${sessionStorage.getItem('token')}`,
