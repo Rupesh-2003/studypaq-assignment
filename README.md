@@ -5,6 +5,12 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&duration=2000&pause=&color=A177FE&multiline=true&repeat=false&width=1000&height=220&lines=This+project+is+built+as+an+assignment+for+the+FullStack+Developer+Intern+position+at+Studypaq;It+is+a+nextJS+website+that+calls+our+flask+API+which+internally+calls+the+reddit+API.;The+response+from+reddit+API+is+tailored+according+to+our+needs+on+the+backend+and+then+sent+to;the+Frontend.+We+have+used+JWT+Token+to+secure+our+APIs.;Along+with+each+request+JWT+token+is+passed%2C+if+the+token+is+valid%2C+we+get+the+desired+data.;In+order+to+get+the+JWT+token%2C+the+user+first+needs+to+log+in.;I+have+also+added+the+feature+of+infinity+scroll+i.e.+on+reaching+at+the+bottom+of+the+page%2C+;next+30+images+are+fetched+and+appended+to+the+data." alt="Typing SVG" /></a>
 
+## <span>🎥<span/>&nbsp;&nbsp;  Video Demo
+
+https://user-images.githubusercontent.com/72150555/233776395-4724d898-2305-4e87-8243-dd87b0d8d464.mp4
+
+<br/>
+
 ## <span>🛠️<span/>&nbsp;&nbsp; Tech Stack
 
 <p>
