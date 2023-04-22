@@ -1,38 +1,70 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<h1 align="center">
+  <img alt="logo" src="./public/favicon.ico" width="25px" hieight="25px"/>
+  Images
+</h1>
 
-## Getting Started
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&duration=2000&pause=&color=A177FE&multiline=true&repeat=false&width=1000&height=220&lines=This+project+is+built+as+an+assignment+for+the+FullStack+Developer+Intern+position+at+Studypaq;It+is+a+nextJS+website+that+calls+our+flask+API+which+internally+calls+the+reddit+API.;The+response+from+reddit+API+is+tailored+according+to+our+needs+on+the+backend+and+then+sent+to;the+Frontend.+We+have+used+JWT+Token+to+secure+our+APIs.;Along+with+each+request+JWT+token+is+passed%2C+if+the+token+is+valid%2C+we+get+the+desired+data.;In+order+to+get+the+JWT+token%2C+the+user+first+needs+to+log+in.;I+have+also+added+the+feature+of+infinity+scroll+i.e.+on+reaching+at+the+bottom+of+the+page%2C+;next+30+images+are+fetched+and+appended+to+the+data." alt="Typing SVG" /></a>
 
-First, run the development server:
+## <span>🛠️<span/>&nbsp;&nbsp; Tech Stack
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+<p>
+  <img alt="nextJs" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+  <img alt="tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+  <img alt="flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+</p>
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+<br/>
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+## <span>🚀<span/>&nbsp;&nbsp; Deployed
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+<p>
+   <p>
+    Frontend :&nbsp;&nbsp;&nbsp;<img alt="netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
+   </p>
+   
+   <p>
+    Backend  :&nbsp;&nbsp;&nbsp;<img alt="netlify" src="https://img.shields.io/badge/Render.com-373277?style=for-the-badge&logo=render.com&logoColor=white">
+   </p>
+</p>
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+<br/>
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## <span>✅<span/>&nbsp;&nbsp;Tasks Checklist
 
-## Learn More
+- [x] You need to build a webpage which consumes an API and render that on the webpage.
+- [x] This assignment needs to be done in Next.js
+- [x] Send a GET request and render the images on the webpage returned from the api.
 
-To learn more about Next.js, take a look at the following resources:
+### Additional
+- [x] Use flask to strip out all the irrelevant fields from the json.
+- [x] Add some type of authentication on the api (here JWT).
+- [x] Login/Logout Functionality
+- [x] Use TailwindCss
+- [x] Infinity Scroll
+- [x] Create Deployment Pipeline
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+<br/>
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## <span>👔<span/>&nbsp;&nbsp;  Candidate Details
 
-## Deploy on Vercel
+<p>
+  <p>Name: Rupesh Raut</p>
+  <p>Passing year: 2025</p>
+  <p>Contact: </p>
+  <p>
+    <a href="https://www.linkedin.com/in/rupesh-raut-2003/">
+      <img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true" alt="Rupesh Raut | LinkedIn">
+    </a>&nbsp;&nbsp;
+    <a href="https://twitter.com/rupeshraut2003">
+      <img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true" alt="Rupesh | Twitter">
+    </a>&nbsp;&nbsp;
+    <a href="https://www.behance.net/rupeshraut">
+      <img height="30" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="Rupesh | Behance">
+    </a>&nbsp;&nbsp;
+    <a href="mailto:rupeshraut99396@gmail.com">
+      <img height="32" src="https://user-images.githubusercontent.com/29790345/184528214-8f168ffd-5a4c-4d30-8d6b-917568924fbb.png?raw=true" alt="Rupesh | Mail">
+     </a>&nbsp;&nbsp;
+  </p>
+</p>
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+<h2 align="center">Thank You!</h2>
