@@ -46,7 +46,9 @@ https://user-images.githubusercontent.com/72150555/233776395-4724d898-2305-4e87-
 - [x] Add some type of authentication on the api (here JWT).
 - [x] Login/Logout Functionality
 - [x] Use TailwindCss
-- [x] Infinity Scroll
+- [x] Infinity Scroll (fetch new 30 images)
+- [x] Add toaster to display error/success popups
+- [x] Mobile Responsive
 - [x] Create Deployment Pipeline
 
 <br/>
@@ -55,7 +57,7 @@ https://user-images.githubusercontent.com/72150555/233776395-4724d898-2305-4e87-
 
 <p>
   <p>Name: Rupesh Raut</p>
-  <p>Passing year: 2025</p>
+  <p>Graduation year: 2025</p>
   <p>Contact: </p>
   <p>
     <a href="https://www.linkedin.com/in/rupesh-raut-2003/">
